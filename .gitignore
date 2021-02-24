@@ -8,6 +8,9 @@ yarn-error.log*
 public/image/*
 public/images/*
 
+!public/image/.gitkeep
+!public/images/.gitkeep
+
 # Runtime data
 pids
 *.pid
